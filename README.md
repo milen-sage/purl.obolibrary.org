@@ -161,7 +161,7 @@ The tool will refuse to overwrite existing YAML configuration files. If you are 
 
 ## Development and Testing
 
-Developers can test their changes using a local virtual machine. First install [VirtualBox](https://www.virtualbox.org) and [Vagrant](https://www.vagrantup.com). Then check out a copy of this repository and start a virtual machine like so:
+Developers can test their changes using a local virtual machine. First install [VirtualBox](https://www.virtualbox.org) and [Vagrant](https://www.vagrantup.com). Note that Vagrant requires [Ansible](https://www.ansible.com) be installed. Then check out a copy of this repository and start a virtual machine like so:
 
     git clone https://github.com/OBOFoundry/purl.obolibrary.org.git
     cd purl.obolibrary.org/tools
