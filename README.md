@@ -1,4 +1,4 @@
-# OBO PURLs use TERMS
+# OBO PURLs use TERMS from a controlled vocabulary
 
 [![Build Status](https://travis-ci.org/OBOFoundry/purl.obolibrary.org.svg?branch=master)](https://travis-ci.org/OBOFoundry/purl.obolibrary.org)
 
