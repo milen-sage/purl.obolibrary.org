@@ -1,4 +1,4 @@
-# OBO PURLs
+# OBO PURLs use TERMS
 
 [![Build Status](https://travis-ci.org/OBOFoundry/purl.obolibrary.org.svg?branch=master)](https://travis-ci.org/OBOFoundry/purl.obolibrary.org)
 
